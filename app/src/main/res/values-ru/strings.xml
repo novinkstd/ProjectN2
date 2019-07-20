@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_in_short">Войти</string>
+    <string name="action_settings">Настройки</string>
+    <string name="prompt_email">Email или Id</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="menu_services">Services</string>
+    <string name="menu_history_services">Service history</string>
+</resources>

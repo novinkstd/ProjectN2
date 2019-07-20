@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 /**
  * A simple {@link Fragment} subclass.
- * Use the {@link UserFragment#newInstance} factory method to
+ * Use the {@link UserFragment#newInstance} factory method to https://github.com/tima2015/projectN.git
  * create an instance of this fragment.
  */
 public class UserFragment extends Fragment {
